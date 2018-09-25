@@ -1,0 +1,55 @@
+Program to print “Hello World”
+
+
+#include<stdio.h>
+
+int main()
+
+{
+
+printf(“Hello World!”);
+
+return 0;
+
+}
+
+
+     2.   Program to print my name
+
+
+#include<stdio.h>
+
+int main()
+
+{
+
+printf(“ Jatin Yadav \n”);
+
+return  0;
+
+}
+
+
+3. #include<stdio.h> is the preprocessor instruction for the inclusion of the various input output function that an average program might need to use.The header file stdio.h keeps a list of all the file in the stdio.
+
+
+4. Writing down 20 questions on printf is obviously meant to invoke research. Here are the things I found(<<20):
+
+Printf is a method in the stdio meant to print user’s desired message onto the stdout which can be a simple VDU or a file.
+
+The text printed by printf on the stdout is completely string.
+
+Format specifiers like d ,c ,etc help determine the kind of data that are to be 
+
+It returns the no. of characters it prints.
+
+Printf can also print numbers in various bases like octal or hexadecimal.
+
+
+5.main is the starting point of execution for any program in C . code can occur before main in the code file but execution still starts from main.
+
+
+6.touch typing eliminates the unnecessary hassle of dividing our focus into locating characters for writing out code and allows us to think on the fly because we would be coding by looking at the code and not the keyboard.
+
+
+7. There are websites that would sorta teach that sort of stuff.
